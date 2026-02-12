@@ -1,0 +1,7 @@
+{
+  "name": "Easing AI",
+  "description": "A calm, intelligent, and highly responsive AI assistant for daily tasks, built with the power of Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
